@@ -112,5 +112,3 @@ LinkedIn: (www.linkedin.com/in/sumaiya-mohammed-hanif)
 
 ---
 
-
-## 📂 Project Structure
